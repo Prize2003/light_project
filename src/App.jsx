@@ -15,13 +15,7 @@ function App() {
             <div>
               <input className="form-check-input" type="checkbox" id="flexSwitchCheckDefault"/>
               <br></br>
-              <h5 className="form-check-label manualk" htmlFor="flexSwitchCheckDefault" >Manual</h5>
-
-            </div>
-            <div>
-              <input className="form-check-input" type="checkbox" id="flexSwitchCheckDefault"/>
-              <br></br>
-              <h5 className="form-check-label autok" htmlFor="flexSwitchCheckDefault" >Auto</h5>
+              <h5 className="form-check-label manualk" htmlFor="flexSwitchCheckDefault" >Auto</h5>
 
             </div>
 
@@ -29,6 +23,9 @@ function App() {
             {/* <br></br> */}
             {/* <h5 className="form-check-label tx" htmlFor="flexSwitchCheckDefault" >Auto</h5> */}
           </div>
+          <form className="Submit">
+            <input type="submit" value="Submit" />
+          </form>
       </div>
        
       <div className="room">
@@ -39,13 +36,7 @@ function App() {
             <div>
               <input className="form-check-input" type="checkbox" id="flexSwitchCheckDefault"/>
               <br></br>
-              <h5 className="form-check-label manualb" htmlFor="flexSwitchCheckDefault" >Manual</h5>
-
-            </div>
-            <div>
-              <input className="form-check-input" type="checkbox" id="flexSwitchCheckDefault"/>
-              <br></br>
-              <h5 className="form-check-label autob" htmlFor="flexSwitchCheckDefault" >Auto</h5>
+              <h5 className="form-check-label manualb" htmlFor="flexSwitchCheckDefault" >Auto</h5>
 
             </div>
 
@@ -56,17 +47,11 @@ function App() {
         </div>
         <div className="kitchen">
         Lounge
-        <div className="form-check form-switch rmb">
+        <div className="form-check form-switch rml">
             <div>
               <input className="form-check-input" type="checkbox" id="flexSwitchCheckDefault"/>
               <br></br>
-              <h5 className="form-check-label manualb" htmlFor="flexSwitchCheckDefault" >Manual</h5>
-
-            </div>
-            <div>
-              <input className="form-check-input" type="checkbox" id="flexSwitchCheckDefault"/>
-              <br></br>
-              <h5 className="form-check-label autob" htmlFor="flexSwitchCheckDefault" >Auto</h5>
+              <h5 className="form-check-label manuall" htmlFor="flexSwitchCheckDefault" >Auto</h5>
 
             </div>
 
