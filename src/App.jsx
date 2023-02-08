@@ -23,8 +23,8 @@ function App() {
             {/* <br></br> */}
             {/* <h5 className="form-check-label tx" htmlFor="flexSwitchCheckDefault" >Auto</h5> */}
           </div>
-          <form className="Submit">
-            <input type="submit" value="Submit" />
+          <form >
+            <input className="Submit" type="submit" value="Submit" />
           </form>
       </div>
        
@@ -44,6 +44,9 @@ function App() {
             {/* <br></br> */}
             {/* <h5 className="form-check-label tx" htmlFor="flexSwitchCheckDefault" >Auto</h5> */}
           </div>
+          <form >
+            <input className="Submit" type="submit" value="Submit" />
+          </form>
         </div>
         <div className="kitchen">
         Lounge
@@ -59,6 +62,10 @@ function App() {
             {/* <br></br> */}
             {/* <h5 className="form-check-label tx" htmlFor="flexSwitchCheckDefault" >Auto</h5> */}
           </div>
+          <form >
+            <input className="Submit" type="submit" value="Submit" />
+          </form>
+          
       </div>
       </div>
     </div>

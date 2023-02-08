@@ -146,5 +146,8 @@ body{
 }
 
 .Submit{
-  
+  width: 200px;
+  height: 100px;
+  font-size: 50px;
+  margin-top: 300px;
 }
